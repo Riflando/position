@@ -19,6 +19,7 @@ body {
     max-width: 960px;
     margin: auto;
     padding: 25px;
+    display: inline;
 }
 .body {
     max-width: 700px;
